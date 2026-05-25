@@ -23,6 +23,11 @@ function scrollToSection(sectionId) {
     }
 }
 
+// Open URL in new tab
+function openNewTab(url) {
+    window.open(url, '_blank');
+}
+
 // Form Submission
 document.getElementById('contactForm').addEventListener('submit', (e) => {
     e.preventDefault();
