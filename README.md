@@ -2,6 +2,12 @@
 
 A modern, responsive landing page built with HTML, CSS, and JavaScript. Perfect for showcasing creative services and portfolio projects.
 
+## 🌐 Live Preview
+
+**View the website online:**
+- 📱 **Mobile Preview**: https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html
+- 🖥️ **GitHub Pages** (after enabling): https://tinjaulilo.github.io/Web_simple/
+
 ## Features
 
 ✨ **Modern Design**
@@ -41,9 +47,15 @@ Web_simple/
 
 ## Getting Started
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Customize the content, colors, and text to match your needs
+### Option 1: View Online (Easiest)
+1. Click the preview link above
+2. No installation needed!
+
+### Option 2: Local Setup
+1. Clone the repository: `git clone https://github.com/tinjaulilo/Web_simple.git`
+2. Navigate to folder: `cd Web_simple`
+3. Open `index.html` in your browser
+4. Customize the content, colors, and text to match your needs
 
 ## Customization
 
@@ -68,14 +80,21 @@ Add or remove service cards in the Services section.
 Update portfolio items with your own projects.
 
 ## Browser Support
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Mobile browsers
+- ✅ Chrome
+- ✅ Firefox
+- ✅ Safari
+- ✅ Edge
+- ✅ Mobile browsers (iOS Safari, Chrome Android)
 
 ## License
 Free to use for personal and commercial projects.
 
 ## Author
 Created with ❤️ for creative professionals
+
+---
+
+**Quick Links:**
+- [View Live Demo](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html)
+- [GitHub Repository](https://github.com/tinjaulilo/Web_simple)
+- [Report Issues](https://github.com/tinjaulilo/Web_simple/issues)
