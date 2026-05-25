@@ -113,6 +113,13 @@ body {
     animation: slideInUp 0.8s ease 0.2s both;
 }
 
+.hero-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .hero-shape {
     position: absolute;
     width: 300px;
@@ -145,6 +152,21 @@ body {
 }
 
 .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    animation: slideInUp 0.8s ease 0.5s both;
+}
+
+.btn-secondary:hover {
+    background: white;
+    color: var(--primary);
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
 }
@@ -405,6 +427,11 @@ body {
         font-size: 1rem;
     }
 
+    .hero-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
     .section-title {
         font-size: 2rem;
     }
@@ -441,6 +468,10 @@ body {
     .hero-subtitle {
         font-size: 0.9rem;
         margin-bottom: 1.5rem;
+    }
+
+    .hero-buttons {
+        gap: 0.5rem;
     }
 
     .services,
