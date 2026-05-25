@@ -13,15 +13,25 @@ A modern, responsive landing page built with **HTML, CSS, and JavaScript**. Perf
 
 ### 🌐 **LIVE PREVIEW**
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-
-[📱 **View Live Demo**](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html)
-•
-[⭐ **Star Repository**](https://github.com/tinjaulilo/Web_simple)
-•
-[🐛 **Report Issues**](https://github.com/tinjaulilo/Web_simple/issues)
-
-</div>
+<table>
+<tr>
+<td align="center">
+<a href="https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html" target="_blank">
+<img src="https://img.shields.io/badge/▶_VIEW_WEB_LIVE-667eea?style=for-the-badge&logoColor=white" alt="View Web" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/tinjaulilo/Web_simple" target="_blank">
+<img src="https://img.shields.io/badge/⭐_STAR_REPO-764ba2?style=for-the-badge&logoColor=white" alt="Star" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/tinjaulilo/Web_simple/issues" target="_blank">
+<img src="https://img.shields.io/badge/🐛_REPORT_ISSUES-f5576c?style=for-the-badge&logoColor=white" alt="Issues" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,6 +53,7 @@ A modern, responsive landing page built with **HTML, CSS, and JavaScript**. Perf
 ┌─────────────────────────────────┐
 │  🎯 HERO SECTION                │
 │  Eye-catching landing area      │
+│  ✨ 2 Action Buttons            │
 └─────────────────────────────────┘
          ⬇️
 ┌─────────────────────────────────┐
@@ -79,13 +90,18 @@ Web_simple/
 
 ## 🚀 Quick Start
 
-### Option 1️⃣: View Online (Fastest)
+### Option 1️⃣: View Online (Fastest) 🎯
+
+**Click button to view website in new tab:**
+
+[![View Web Button](https://img.shields.io/badge/📱_CLICK_HERE_TO_VIEW_WEBSITE-667eea?style=for-the-badge&logoColor=white)](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html)
+
 ```
 ✅ No installation needed
+✅ Opens in new tab automatically
 ✅ Works on mobile & desktop
 ✅ Instant preview
 ```
-👉 **[Click here to view live demo](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html)**
 
 ### Option 2️⃣: Local Setup
 
@@ -232,10 +248,16 @@ Have questions or issues?
 
 ### ⭐ If you like this project, please give it a star! ⭐
 
-**[View Live Demo](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html)** • **[Star on GitHub](https://github.com/tinjaulilo/Web_simple)** • **[Share with Friends](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20landing%20page%20template:%20https://github.com/tinjaulilo/Web_simple)**
+## 🚀 Quick Action Buttons
+
+[![📱 VIEW WEBSITE](https://img.shields.io/badge/📱_VIEW_WEBSITE_LIVE-667eea?style=for-the-badge&logoColor=white)](https://htmlpreview.github.io/?https://github.com/tinjaulilo/Web_simple/blob/main/index.html) 
+[![⭐ STAR REPO](https://img.shields.io/badge/⭐_STAR_REPO-764ba2?style=for-the-badge&logoColor=white)](https://github.com/tinjaulilo/Web_simple) 
+[![🐛 REPORT BUG](https://img.shields.io/badge/🐛_REPORT_BUG-f5576c?style=for-the-badge&logoColor=white)](https://github.com/tinjaulilo/Web_simple/issues)
 
 ---
 
 **Last Updated:** May 2026 | **Version:** 1.0.0
+
+Made with ❤️ for web developers
 
 </div>
